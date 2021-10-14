@@ -2,7 +2,7 @@ import React from "react";
 const Header = () => {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div className="container-fluid">
           <a class="navbar-brand" href="#">
             Fake Store
